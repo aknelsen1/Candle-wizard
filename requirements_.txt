@@ -2,6 +2,9 @@ streamlit
 yfinance
 pandas
 numpy
-scikit-learn
+plotly
+ta
 matplotlib
-mplfinance
+scikit-learn
+python-dateutil
+requests
